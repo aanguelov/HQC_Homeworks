@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\MineSweeper\obj\Debug\3. MineSweeper.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\MineSweeper\obj\Debug\MineSweeper.pdb

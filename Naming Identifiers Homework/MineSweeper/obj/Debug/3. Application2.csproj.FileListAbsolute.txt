@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe.config
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\Application2\bin\Debug\Application2.pdb
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\Application2\obj\Debug\Application2.exe
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\Application2\obj\Debug\Application2.pdb
+C:\Users\Laptop\Desktop\GitHub\HQC_Homeworks\Naming Identifiers Homework\Application2\bin\Debug\MineSweeper.exe.config
